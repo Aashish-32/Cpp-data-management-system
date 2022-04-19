@@ -1,0 +1,1 @@
+This is a menu driven C++ program to create,delete,modify, display  and search student details in a structured manner. You can run this program in a C++ enviroment to required header file or can execute through command line window.
